@@ -12,5 +12,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...# Preetham KP
+
+## About Me
+- 🎯 Software Developer with expertise in Java and Python
+- 🧠 Passionate about algorithms, data structures, and competitive programming
+- 🌟 Love solving complex problems and building scalable applications
+- 📚 Continuous learner exploring new technologies
+
+## Tech Stack
+- Languages: Java, Python, JavaScript
+- Frameworks: Spring Boot, React
+- Tools: Git, Docker, VS Code
+
+📧 Contact: preethamkp664@gmail.com
+🌐 Portfolio: preethamkp.dev
+
 -->
